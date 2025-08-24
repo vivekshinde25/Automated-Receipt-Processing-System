@@ -118,7 +118,7 @@ This project uses Amazon S3, Textract, DynamoDB, SES, and Lambda to create a ful
 * Destination: receipt-processor (Lambda)
 ## Articulated diagram
 
-![Alt text]()
+![Alt text](https://github.com/vivekshinde25/Automated-Receipt-Processing-System/blob/0474b00cdf1688f2c64ca4d192eb02e4cb356c16/ChatGPT%20Image%20Aug%2024%2C%202025%2C%2007_09_35%20PM.png)
 
 ## 🚀 Usage
 
