@@ -116,6 +116,10 @@ This project uses Amazon S3, Textract, DynamoDB, SES, and Lambda to create a ful
 * Event type: All object create events
 
 * Destination: receipt-processor (Lambda)
+## Articulated diagram
+
+![Alt text]()
+
 ## 🚀 Usage
 
 **1.** Upload a receipt file (JPG, PNG, PDF) into the incoming/ folder of your S3 bucket.
